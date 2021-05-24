@@ -11,7 +11,7 @@
         para realizar páginas de tipo SPA (Static Page Aplication) o SSR (Server
         Side Rendering)
       </p>
-      <br>
+      <br />
       <p>
         <a
           href="https://nuxtjs.org"
